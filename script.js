@@ -20,7 +20,7 @@ function generateOutfits() {
 
     // Display the loader
     outfitsContainer.innerHTML =
-        '<l-trefoil size="100" stroke="4" stroke-length="0.15" bg-opacity="0.1" speed="1.4" color="black"></l-trefoil>';
+        '<l-trefoil size="100" stroke="5.5" stroke-length="0.15" bg-opacity="0.1" speed="1.4" color="darkblue"></l-trefoil>';
 
     // Simulate outfit generation
     setTimeout(() => {

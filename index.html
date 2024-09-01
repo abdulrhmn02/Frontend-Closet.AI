@@ -15,45 +15,6 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
         crossorigin="anonymous"
     />
-    <!-- <style>
-        .landing-page {
-            position: relative;
-            text-align: center;
-            color: white;
-        }
-        /* .background-images img {
-            width: 100%;
-            height: auto;
-            position: absolute;
-            top: 0;
-            left: 0;
-            z-index: -1;
-            opacity: 0.5;
-        } */
-        .content {
-            position: relative;
-            padding: 100px 20px;
-        }
-        header {
-            background: #F9DBBA;
-            text-align: center;
-            padding: 50px 20px;
-        }
-        header h1 {
-            color: #1F316F;
-            margin: 0;
-        }
-        header p {
-            color: #1A4870;
-            font-size: 1.2rem;
-        }
-        footer {
-            background: #5B99C2;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-        }
-    </style> -->
 </head>
 
 <body>
@@ -91,15 +52,23 @@
         <!-- Background Images -->
         <div class="background-images">
             <img src="images/image1.webp" alt="Outfit 1">
-            <!-- <img src="images/image2.png" alt="Outfit 2"> -->
-            <!-- <img src="images/image3.webp" alt="Outfit 3"> -->
         </div>
 
         <!-- Centered Content -->
-        <div class="content">
+        <div class="content text-center">
             <h1 class="font-weight-bold">CLOSET.AI</h1>
             <h2 class="font-weight-bold">Where Fashion Meets Technology.</h2><br/>
             <h3 class="font-weight-bold">Upload your clothing items and generate stylish outfits.</h3>
+
+            <!-- Generate Outfits Button -->
+            <div class="mt-4">
+                <a href="generate-outfits.html" class="ui animated black button" tabindex="0" style="background-color: #1F316F; color: white; border: none;">
+                    <div class="visible content">Try Now</div>
+                    <div class="hidden content">
+                        <i class="rocket icon"></i>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 
