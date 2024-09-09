@@ -90,7 +90,7 @@ Selecting outfits from a wardrobe can be time-consuming and tedious. Closet.AI s
 - **Website Link**: [Closet.AI](http://<Frontend-IP-Address>)
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
-  - ![ResourceGroup Screenshot](./ProjectScreenshots/ResourcegroupSS.png)
+  - ![ResourceGroup Screenshot](./ProjectScreenshots/ResourceGroupSS.png)
 
   - ![Outfit Combinations](https://link-to-image/outfits.png)
 
