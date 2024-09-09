@@ -87,12 +87,46 @@ Selecting outfits from a wardrobe can be time-consuming and tedious. Closet.AI s
 
 ## Live Website and Resources
 
-- **Website Link**: [Closet.AI](http://<Frontend-IP-Address>)
+- **Website Link**: [Closet.AI](https://github.com/abdulrhmn02/Frontend-Closet.AI.git)
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
+  **Created Resource Group Screenshot**
   - ![ResourceGroup Screenshot](./ProjectScreenshots/ResourceGroupSS.png)
+    
+  **ResourceGroup Deployment Command Output**
+  - ![RSG-Deployment-output Screenshot](./ProjectScreenshots/RSG-Deployment-output.png)
 
-  - ![Outfit Combinations](https://link-to-image/outfits.png)
+  **VNet Subnets RSG ARM Template Output**
+  - ![VNetDeploymentoutputSS Screenshot](./ProjectScreenshots/VNetDeploymentoutputSS.png)
+
+   **Created VNet Screenshot** 
+  - ![VNetSS Screenshot](./ProjectScreenshots/VNetSS.png)
+
+  **Created Subnets Screenshot**
+  - ![SubnetSS Screenshot](./ProjectScreenshots/SubnetSS.png)
+
+   **Deployed VM 1 Screenshot**
+  - ![VM1SS Screenshot](./ProjectScreenshots/VM1SS.png)
+
+  **Deployed VM 2 Screenshot**
+  - ![VM2SS Screenshot](./ProjectScreenshots/VM2SS.png)
+
+  **Deployed LoadBalancer Screenshot**
+  - ![LoadbalancerSS Screenshot](./ProjectScreenshots/LoadbalancerSS.png)
+
+  **Website Home Page Screenshot**
+  - ![closet.AIHomepage Screenshot](./ProjectScreenshots/closet.AIHomePage.png)
+
+  **Generate Outfits Page after complete Deployment**
+  - ![GenerateOutfitsPage Screenshot](./ProjectScreenshots/GenerateOutfitsPage.png)
+
+  **Generated Outfits Page after complete Deployment**
+  - ![GeneratedOutfitsSS Screenshot](./ProjectScreenshots/GeneratedOutfitsSS.png)
+
+  **About Us  Page after complete Deployment**
+  - ![AboutUsPage Screenshot](./ProjectScreenshots/AboutUsPage.png)
+
+ 
 
 ## Conclusion
 
