@@ -126,7 +126,6 @@ Selecting outfits from a wardrobe can be time-consuming and tedious. Closet.AI s
   **About Us  Page after complete Deployment**
   - ![AboutUsPage Screenshot](./ProjectScreenshots/AboutUsPage.png)
 
- 
 
 ## Conclusion
 
@@ -137,28 +136,4 @@ This project showcases the end-to-end process of deploying a static website usin
 **Mohammed Abdul Rahman**  
 Deployed individually as part of learning Azure's cloud infrastructure.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can update the placeholders for the website link, demo video, and screenshots with the actual URLs. Let me know if you need any modifications!
-  - ![Outfit Combinations](https://link-to-image/outfits.png)
-
-## Conclusion
-
-This project showcases the end-to-end process of deploying a static website using Azure's ARM templates and load balancing capabilities. By distributing traffic between two VMs in different availability zones, we ensure high availability and scalability for the **Closet.AI** platform. The integration of Azure's powerful tools and services simplified the deployment and configuration process.
-
-## Author
-
-**Mohammed Abdul Rahman**  
-Deployed individually as part of learning Azure's cloud infrastructure.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can update the placeholders for the website link, demo video, and screenshots with the actual URLs. Let me know if you need any modifications!
