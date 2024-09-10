@@ -1,4 +1,4 @@
-# Closet.AI – Deploying Static Website using Load Balancer by ARM Template
+# Deploying Static Website using Load Balancer by ARM Template
 
 ## Project Overview
 
