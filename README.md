@@ -88,7 +88,7 @@ Selecting outfits from a wardrobe can be time-consuming and tedious. Closet.AI s
 ## Live Website and Resources
 
 - **Website Link**: [Closet.AI](https://github.com/abdulrhmn02/Frontend-Closet.AI.git)
-- **Demo Video**: [YouTube Demo](https://youtube.com/example)
+- **Project Video**: [Project Video](https://drive.google.com/file/d/1zJa4tw-9f5ppTJUBjyvtMW24-qRc7OEk/view?usp=drive_link)
 - **Screenshots**:
   **Created Resource Group Screenshot**
   - ![ResourceGroup Screenshot](./ProjectScreenshots/ResourceGroupSS.png)
